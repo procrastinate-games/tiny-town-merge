@@ -99,3 +99,7 @@ fit without cropping. Review the mobile board and collection after importing.
 ## Verified release checks
 
 The completed implementation passed 62 Vitest cases, 22 Playwright tests across desktop and mobile, production-build smoke checks at both viewport sizes, and `npm run build`. All five deterministic 15-minute simulations reproduced their committed results. Browser automation used Chromium; physical-device Safari and Firefox testing remains outside this verification.
+
+## Play more browser games
+
+Find this game and the rest of the collection at [Games to Procrastinate To](https://procrastinate.games/).
